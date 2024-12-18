@@ -1,12 +1,12 @@
-.recipe-container{
-    display:flex;
-    justify-content:center;
-    flex-direction:row;
-    gap:10px;
-    flex-wrap:wrap;
+.recipe-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 10px;
+  flex-wrap: wrap;
 }
-.recepie-card{
-    width:300px;
-    cursor:pointer;
-    background:lightgray;
+.recepie-card {
+  width: 300px;
+  cursor: pointer;
+  background: lightgray;
 }
